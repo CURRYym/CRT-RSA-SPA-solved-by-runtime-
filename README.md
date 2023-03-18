@@ -8,14 +8,14 @@
 ## Process
 
 1.load and intercept the data
-		2.use gaussian_filter1d to observe the energy waveform
-		3.slice waveform
+2.use gaussian_filter1d to observe the energy waveform
+3.slice waveform
 
   * moving_average_filterld and middle_filterld
   * find_peaks
 
 4.add up runtime
-		5.symbol distinguish
+5.symbol distinguish
 
 ## continuation
 
